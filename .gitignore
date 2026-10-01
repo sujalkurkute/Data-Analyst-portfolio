@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# generated datasets (recreate with generate_data.py)
+0*/data/*.csv

@@ -1,0 +1,16 @@
+txn_type,band,txns,fraud,fraud_pct
+Collect Request,1k-20k,2672,16,0.599
+Collect Request,<1k,10602,52,0.49
+P2M,1k-20k,13410,15,0.112
+P2P,1k-20k,15009,15,0.1
+P2P,<1k,58002,54,0.093
+Bill Pay,<1k,18194,16,0.088
+P2M,<1k,52373,45,0.086
+Bill Pay,1k-20k,4806,4,0.083
+Recharge,<1k,14055,9,0.064
+Recharge,1k-20k,3685,1,0.027
+Bill Pay,20k+,4,0,0.0
+Collect Request,20k+,4,0,0.0
+P2M,20k+,15,0,0.0
+P2P,20k+,16,0,0.0
+Recharge,20k+,3,0,0.0

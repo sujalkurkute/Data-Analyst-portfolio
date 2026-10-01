@@ -1,0 +1,4 @@
+contract,n,churn_pct,avg_charge
+Month-to-month,3832,41.0,62.86
+One year,1737,8.75,63.33
+Two year,1431,3.91,61.55
